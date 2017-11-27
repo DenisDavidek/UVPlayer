@@ -51,14 +51,5 @@ You can find how UVPlayer looks on different devices below.
 
 <img src="docs/images/smartphone/T-4.png" width="859"> </img>  
 
-
-# Developer Setup
-
-Clone or download this repository.
-
-## Requirements
-- JDK Version 1.7 & above
-- Latest version of [Android SDK](https://developer.android.com/studio/index.html), Android Studio, Android Build Tools, Android Support library and Gradle
-
 # Author
 [Denis Dávidek](https://github.com/DenisDavidek)
